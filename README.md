@@ -22,6 +22,6 @@ A simple Python program that calculates student grades based on marks.
 - Python 3
 
  Author
-- Your Name: Mohammad Bilal
+- Name: Mohammad Bilal
 - GitHub: bilal_datascience
 - LinkedIn: Mohammad Bilal
